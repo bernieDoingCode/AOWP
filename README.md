@@ -1,2 +1,2 @@
 # AOWP
-c rn
+Anki cards for AOWP 
